@@ -1,0 +1,187 @@
+body {
+    background-color: rgb(241, 171, 91);
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+html{ 
+    scroll-behavior: smooth;
+
+
+}
+.buttons {
+    display: flex;
+
+
+}
+
+
+nav {
+display: flex;
+justify-content: space-evenly;
+background-color: blue;
+padding-top: 3vmin;
+border-radius: 5vmin;
+margin-right: 2vmin;
+margin-left: 2vmin;
+font-size: large;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 2vmin;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 0, 255);
+    font-size: 3.5vmin;
+    margin-bottom: 2.5vmin;
+}
+
+.item1 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+    
+}
+.preorder {
+    background-color: yellow;
+}
+.item1Words{
+    display: flex;
+    flex-direction: column;
+    max-height: 5vmin;
+    margin-top: 3%;
+    justify-content: space-between;
+    font-size: 3.5vmin;
+    text-align: center;
+}
+img {
+    max-width: 50%;
+    max-height: 40vmin;
+}
+
+button {
+    margin-left: 5vmin;
+    margin-right: 5vmin;
+    width: 50%;
+    font-size: 5vmin;
+    border-radius: 2vmin;
+    font-family: cursive;
+}
+
+.item2 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+}
+
+.item2Words{
+    display: flex;
+    flex-direction: column;
+    max-height: 5vmin;
+    margin-top: 3%;
+    justify-content: space-between;
+    font-size: 3.5vmin;
+    text-align: center;
+    
+}
+#ComicsandGrapicNovels {
+border-radius: 3vmin;
+background-color: burlywood;
+margin-top: 5vmin;
+margin-right: 5vw;
+margin-left: 5vw;
+border: 5px outset coral;
+}
+
+.item3 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+}
+
+.item3Words{
+    display: flex;
+    flex-direction: column;
+    max-height: 5vmin;
+    margin-top: 3%;
+    justify-content: space-between;
+    font-size: 3.5vmin;
+    text-align: center;
+
+}
+
+
+.item4 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+}
+
+.item4Words{
+    display: flex;
+    flex-direction: column;
+    max-height: 5vmin;
+    margin-top: 3%;
+    justify-content: space-between;
+    font-size: 3.5vmin;
+    text-align: center;
+
+}
+
+
+.item5 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+}
+
+.item5Words{
+    display: flex;
+    flex-direction: column;
+    max-height: 5vmin;
+    margin-top: 3%;
+    justify-content: space-between;
+    font-size: 3.5vmin;
+    text-align: center;
+
+}
+#Chapterbooks {
+    border-radius: 3vmin;
+    background-color: burlywood;
+    margin-top: 5vmin;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    border: 5px outset coral;
+    }
+    
+.item6 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+}
+
+
+
+.item7 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 10vmin;
+}
+
+.item7Words{
+    display: flex;
+    flex-direction: column;
+    max-height: 5vmin;
+    margin-top: 3%;
+    justify-content: space-between;
+    font-size: 3.5vmin;
+    text-align: center;
+
+}
+.order {
+    margin-top: 5px;
+    width: 87%;
+    background-color: yellow;
+}
